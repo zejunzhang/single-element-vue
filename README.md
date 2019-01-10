@@ -1,6 +1,6 @@
-# eladmin-qt
 
-eladmin 前端源码
+基于element-admin的带权限管理的后台管理系统
+
 ## Build Setup
 ``` bash
 # 安装依赖
