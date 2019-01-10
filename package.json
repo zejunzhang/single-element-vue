@@ -1,9 +1,9 @@
 {
-  "name": "eladmin-qt",
+  "name": "elementadmin",
   "version": "1.2.0",
   "license": "Apache License 2.0",
   "description": "eladmin 前端代码",
-  "author": "jie <zhengjie@tom.com>",
+  "author": "zejunzhang",
   "scripts": {
     "dev": "cross-env BABEL_ENV=development webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "build": "cross-env NODE_ENV=production env_config=prod node build/build.js",
